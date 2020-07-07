@@ -1,0 +1,1145 @@
+{
+  "results": {
+    "next": "https://places.ls.hereapi.com/places/v1/discover/explore;context=Y2F0PWVhdC1kcmluayZmbG93LWlkPTE3NjhiNTY5LTNiZjMtNWQ2Yi1hMTkxLTlkMWU2MzhhYWZhZV8xNTk0MDk3MTI2MjE0XzBfNDM5OSZvZmZzZXQ9MjAmc2l6ZT0yMA?at=52.5159%2C13.3777&app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+    "items": [
+      {
+        "position": [
+          52.52668,
+          13.39678
+        ],
+        "distance": 1762,
+        "title": "Cl‰rchens Ballhaus",
+        "averageRating": 0,
+        "category": {
+          "id": "dance-night-club",
+          "title": "Dance or Nightclub",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/dance-night-club?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/33.icon",
+        "vicinity": "Auguststraﬂe 24<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-1f255df198f448b68b092db402f80138;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0w?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-1f255df198f448b68b092db402f80138"
+      },
+      {
+        "position": [
+          52.521621,
+          13.388252
+        ],
+        "distance": 956,
+        "title": "Melia Berlin",
+        "averageRating": 0,
+        "category": {
+          "id": "hotel",
+          "title": "Hotel",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/hotel?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/01.icon",
+        "vicinity": "Friedrichstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-10e35e5ad0b0460e9fe49fc85a2bb8e7;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0x?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "tapas",
+            "title": "Tapas",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-10e35e5ad0b0460e9fe49fc85a2bb8e7",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "chainIds": [
+          "2108"
+        ],
+        "alternativeNames": [
+          {
+            "name": "Berlin Melia",
+            "language": "en"
+          },
+          {
+            "name": "Melia Berlin Hotel Berlin",
+            "language": "en"
+          },
+          {
+            "name": "MELI¡ HOTELS & RESORTS",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.523241,
+          13.404432
+        ],
+        "distance": 1984,
+        "title": "Brauhaus Lemke am Hackeschen Markt",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Dircksenstraﬂe 143<br/>Mitte, 10178 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33dc-30c55d29afe449c68f852019d1b10515;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0y?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "brewpub",
+            "title": "Brewpub",
+            "group": "cuisine"
+          },
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33dc-30c55d29afe449c68f852019d1b10515",
+        "openingHours": {
+          "text": "Mon-Sun: 12:00 - 00:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T120000",
+              "duration": "PT12H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Lemke",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.51656,
+          13.40519
+        ],
+        "distance": 1862,
+        "title": "Brauhaus Georgbraeu",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Spreeufer 4<br/>Mitte, 10178 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33dc-d4ef4db7d5f94ec0b918fc0c0ad3c6fa;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0z?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "brewpub",
+            "title": "Brewpub",
+            "group": "cuisine"
+          },
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33dc-d4ef4db7d5f94ec0b918fc0c0ad3c6fa",
+        "openingHours": {
+          "text": "Mon-Sun: 12:00 - 00:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T120000",
+              "duration": "PT12H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Brauhaus Georgbr‰u",
+            "language": "en"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.51577,
+          13.38022
+        ],
+        "distance": 171,
+        "title": "Adlon Kempinski Berlin",
+        "averageRating": 0,
+        "category": {
+          "id": "hotel",
+          "title": "Hotel",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/hotel?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/01.icon",
+        "vicinity": "Unter den Linden 77<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-cc50ca74bc7e4e19a646a85abd9ca9ee;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz00?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "french",
+            "title": "French",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-cc50ca74bc7e4e19a646a85abd9ca9ee",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "chainIds": [
+          "363"
+        ],
+        "alternativeNames": [
+          {
+            "name": "Adlon Kempinski Hotel",
+            "language": "en"
+          },
+          {
+            "name": "Hotel Adlon Kempinski",
+            "language": "en"
+          },
+          {
+            "name": "Adlon Kempinski",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.52513,
+          13.39213
+        ],
+        "distance": 1417,
+        "title": "Aufsturz",
+        "averageRating": 0,
+        "category": {
+          "id": "bar-pub",
+          "title": "Bar/Pub",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/bar-pub?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/22.icon",
+        "vicinity": "Oranienburger Straﬂe 67<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-7d47fc8810374fe2becff8f20b959ec4;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz01?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          },
+          {
+            "id": "international",
+            "title": "International",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-7d47fc8810374fe2becff8f20b959ec4",
+        "openingHours": {
+          "text": "Mon-Sun: 12:00 - 02:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T120000",
+              "duration": "PT14H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.51714,
+          13.38609
+        ],
+        "distance": 584,
+        "title": "Einstein Unter den Linden",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Unter den Linden 42<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-c803cf77cad04883b628de655a185173;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz02?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-c803cf77cad04883b628de655a185173",
+        "openingHours": {
+          "text": "Mon-Sun: 08:00 - 22:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T080000",
+              "duration": "PT14H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "CafÈ Einstein",
+            "language": "en"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.52667,
+          13.408
+        ],
+        "distance": 2374,
+        "title": "Monsieur Vuong",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Alte Schˆnhauser Straﬂe 46<br/>Mitte, 10119 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33dc-c5a65f97b92146ad93d0c4355b14a305;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz03?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33dc-c5a65f97b92146ad93d0c4355b14a305",
+        "openingHours": {
+          "text": "Mon-Thu: 12:00 - 23:00<br/>Fri-Sun: 12:00 - 00:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T120000",
+              "duration": "PT11H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH"
+            },
+            {
+              "start": "T120000",
+              "duration": "PT12H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.52255,
+          13.4128
+        ],
+        "distance": 2487,
+        "title": "Park Inn by Radisson Berlin Alexanderplatz",
+        "averageRating": 0,
+        "category": {
+          "id": "hotel",
+          "title": "Hotel",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/hotel?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/01.icon",
+        "vicinity": "Alexanderplatz<br/>Mitte, 10178 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33dc-7f2aef1e8eee4e7ead301c71a7be3713;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz04?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33dc-7f2aef1e8eee4e7ead301c71a7be3713",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "chainIds": [
+          "2922"
+        ],
+        "alternativeNames": [
+          {
+            "name": "Park Inn Alexanderplatz",
+            "language": "en"
+          },
+          {
+            "name": "Park Inn Berlin Alexanderplatz",
+            "language": "en"
+          },
+          {
+            "name": "Park Inn By Radisson Berlin Alexanderplatz Hotel Berlin",
+            "language": "en"
+          },
+          {
+            "name": "Park Inn by Radisson",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.52151,
+          13.38602
+        ],
+        "distance": 840,
+        "title": "Brechts Steakhaus",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Schiffbauerdamm 6<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-e710e34e515f4aab8683afe29d2ae3ff;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz05?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "austrian",
+            "title": "Austrian",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          },
+          {
+            "id": "international",
+            "title": "International",
+            "group": "cuisine"
+          },
+          {
+            "id": "steak",
+            "title": "Steak",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-e710e34e515f4aab8683afe29d2ae3ff",
+        "openingHours": {
+          "text": "Mon-Sun: 12:00 - 00:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T120000",
+              "duration": "PT12H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Brechts",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.51736,
+          13.41377
+        ],
+        "distance": 2446,
+        "title": "Zur Letzten Instanz",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Waisenstraﬂe 14<br/>Mitte, 10179 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33dc-9d8f0d67fbe64808a708a4f5a78a48a5;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0xMA?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          },
+          {
+            "id": "grill",
+            "title": "Grill",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33dc-9d8f0d67fbe64808a708a4f5a78a48a5",
+        "openingHours": {
+          "text": "Tue-Sat: 12:00 - 01:00<br/>Sun: 12:00 - 22:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T120000",
+              "duration": "PT13H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:TU,WE,TH,FR,SA"
+            },
+            {
+              "start": "T120000",
+              "duration": "PT10H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.50556,
+          13.35498
+        ],
+        "distance": 1920,
+        "title": "Sheraton Berlin Grand Hotel Esplanade",
+        "averageRating": 0,
+        "category": {
+          "id": "hotel",
+          "title": "Hotel",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/hotel?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/01.icon",
+        "vicinity": "L¸tzowufer 15<br/>Tiergarten, 10785 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u336x-f1f111ee47eb4069b114b0f8da9d2636;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0xMQ?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u336x-f1f111ee47eb4069b114b0f8da9d2636",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Grand Hotel Berlin",
+            "language": "en"
+          },
+          {
+            "name": "Grand Hotel Esplanade",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.51373,
+          13.39108
+        ],
+        "distance": 937,
+        "title": "Augustiner am Gendarmenmarkt",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Charlottenstraﬂe 55<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33d8-d7a708809bd6417e809164900953dd1a;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0xMg?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          },
+          {
+            "id": "international",
+            "title": "International",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33d8-d7a708809bd6417e809164900953dd1a",
+        "openingHours": {
+          "text": "Mon-Sun: 10:00 - 01:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T100000",
+              "duration": "PT15H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.52481,
+          13.41392
+        ],
+        "distance": 2643,
+        "title": "Hofbrauhaus Berlin",
+        "averageRating": 0,
+        "category": {
+          "id": "bar-pub",
+          "title": "Bar/Pub",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/bar-pub?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/22.icon",
+        "vicinity": "Karl-Liebknecht-Straﬂe 30<br/>Mitte, 10178 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33f6-4ea062a7441747818e5d9771da1e5aed;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0xMw?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          },
+          {
+            "id": "grill",
+            "title": "Grill",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33f6-4ea062a7441747818e5d9771da1e5aed",
+        "openingHours": {
+          "text": "Mon-Thu, Sun: 10:00 - 01:00<br/>Fri, Sat: 10:00 - 02:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T100000",
+              "duration": "PT15H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+            },
+            {
+              "start": "T100000",
+              "duration": "PT16H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Hofbrau Wirtshaus Berlin",
+            "language": "en"
+          },
+          {
+            "name": "Hofbr‰uhaus Berlin",
+            "language": "en"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.51801,
+          13.3866
+        ],
+        "distance": 646,
+        "title": "Ishin Japanese Deli",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Mittelstraﬂe 24<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-cd4084d167af4d0ea6f62e49fbbcbdcf;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0xNA?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "asian",
+            "title": "Asian",
+            "group": "cuisine"
+          },
+          {
+            "id": "japanese",
+            "title": "Japanese",
+            "group": "cuisine"
+          },
+          {
+            "id": "sushi",
+            "title": "Japanese - Sushi",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-cd4084d167af4d0ea6f62e49fbbcbdcf",
+        "openingHours": {
+          "text": "Mon-Fri: 11:30 - 21:30<br/>Sat: 12:00 - 21:30",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T113000",
+              "duration": "PT10H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR"
+            },
+            {
+              "start": "T120000",
+              "duration": "PT09H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:SA"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Ishin Mittelstrasse",
+            "language": "en"
+          },
+          {
+            "name": "Ishin   Mittelstrasse",
+            "language": "en"
+          },
+          {
+            "name": "Ishin",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.510282,
+          13.372547
+        ],
+        "distance": 715,
+        "title": "Lindenbrau am Potsdamer Platz",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Bellevuestraﬂe 3<br/>Tiergarten, 10785 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33d8-2884e07ac5fb47e8bbd3aea50e8ed4af;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0xNQ?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33d8-2884e07ac5fb47e8bbd3aea50e8ed4af",
+        "openingHours": {
+          "text": "Mon-Sun: 11:30 - 01:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T113000",
+              "duration": "PT13H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Lindenbr‰u",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.520865,
+          13.384737
+        ],
+        "distance": 729,
+        "title": "Bar Tausend Cantina",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Schiffbauerdamm 11<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-2c192376ea8541419d3e26bc4aa4f7f9;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0xNg?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "international",
+            "title": "International",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33db-2c192376ea8541419d3e26bc4aa4f7f9",
+        "openingHours": {
+          "text": "Tue-Sat: 07:30 - 05:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T073000",
+              "duration": "PT21H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:TU,WE,TH,FR,SA"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Bar Tausend",
+            "language": "en"
+          },
+          {
+            "name": "Cantina in der Bar Tausend",
+            "language": "en"
+          },
+          {
+            "name": "Tausend",
+            "language": "en"
+          },
+          {
+            "name": "Cantina",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.51235,
+          13.39734
+        ],
+        "distance": 1386,
+        "title": "GOODTIME",
+        "averageRating": 0,
+        "category": {
+          "id": "restaurant",
+          "title": "Restaurant",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/restaurant?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/03.icon",
+        "vicinity": "Hausvogteiplatz 11<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33d8-dc7f1498edd24b8ba9b51b47bc5c1ff6;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0xNw?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "asian",
+            "title": "Asian",
+            "group": "cuisine"
+          },
+          {
+            "id": "fusion",
+            "title": "Fusion",
+            "group": "cuisine"
+          },
+          {
+            "id": "indonesian",
+            "title": "Indonesian",
+            "group": "cuisine"
+          },
+          {
+            "id": "thai",
+            "title": "Thai",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33d8-dc7f1498edd24b8ba9b51b47bc5c1ff6",
+        "openingHours": {
+          "text": "Mon-Sun: 12:00 - 00:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T120000",
+              "duration": "PT12H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Goodtime",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.5034,
+          13.34769
+        ],
+        "distance": 2461,
+        "title": "Hotel Sylter Hof Berlin",
+        "averageRating": 0,
+        "category": {
+          "id": "hotel",
+          "title": "Hotel",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/hotel?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/01.icon",
+        "vicinity": "Kurf¸rstenstraﬂe 116<br/>Schˆneberg, 10787 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u336x-049abcf2a5874d7aa53d003c5ff960b3;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0xOA?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "european",
+            "title": "European",
+            "group": "cuisine"
+          },
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u336x-049abcf2a5874d7aa53d003c5ff960b3",
+        "openingHours": {
+          "text": "Mon-Sun: 12:00 - 12:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T120000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "name": "Sylter Hof",
+            "language": "en"
+          },
+          {
+            "name": "Sylter Hof Berlin",
+            "language": "en"
+          },
+          {
+            "name": "Sylter Hof Hotel",
+            "language": "en"
+          },
+          {
+            "name": "Sylter Hof Berlin",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.51298,
+          13.40511
+        ],
+        "distance": 1883,
+        "title": "Novotel Berlin Mitte",
+        "averageRating": 0,
+        "category": {
+          "id": "hotel",
+          "title": "Hotel",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/hotel?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/01.icon",
+        "vicinity": "Fischerinsel 12<br/>Mitte, 10179 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33d9-b7f70c8f1a164a86ac6d9527238d7329;context=Zmxvdy1pZD0xNzY4YjU2OS0zYmYzLTVkNmItYTE5MS05ZDFlNjM4YWFmYWVfMTU5NDA5NzEyNjIxNF8wXzQzOTkmcmFuaz0xOQ?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "tags": [
+          {
+            "id": "german",
+            "title": "German",
+            "group": "cuisine"
+          }
+        ],
+        "id": "276u33d9-b7f70c8f1a164a86ac6d9527238d7329",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "chainIds": [
+          "18"
+        ],
+        "alternativeNames": [
+          {
+            "name": "Accor Berlin Mitte",
+            "language": "en"
+          },
+          {
+            "name": "Berlin Novotel",
+            "language": "en"
+          },
+          {
+            "name": "Novotel Berlin Mitte Hotel Berlin",
+            "language": "en"
+          },
+          {
+            "name": "NOVOTEL Berlin Mitte",
+            "language": "de"
+          }
+        ]
+      }
+    ]
+  },
+  "search": {
+    "context": {
+      "location": {
+        "position": [
+          52.5159,
+          13.3777
+        ],
+        "address": {
+          "text": "Ebertstraﬂe 22<br/>Mitte, 10117 Berlin<br/>Germany",
+          "house": "22",
+          "street": "Ebertstraﬂe",
+          "postalCode": "10117",
+          "district": "Mitte",
+          "city": "Berlin",
+          "county": "Berlin",
+          "stateCode": "Berlin",
+          "country": "Germany",
+          "countryCode": "DEU"
+        }
+      },
+      "type": "urn:nlp-types:place",
+      "href": "https://places.ls.hereapi.com/places/v1/places/loc-dmVyc2lvbj0xO3RpdGxlPUViZXJ0c3RyYSVDMyU5RmUrMjI7bGF0PTUyLjUxNTk7bG9uPTEzLjM3Nzc7c3RyZWV0PUViZXJ0c3RyYSVDMyU5RmU7aG91c2U9MjI7Y2l0eT1CZXJsaW47cG9zdGFsQ29kZT0xMDExNztjb3VudHJ5PURFVTtkaXN0cmljdD1NaXR0ZTtzdGF0ZUNvZGU9QmVybGluO2NvdW50eT1CZXJsaW47Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw;context=c2VhcmNoQ29udGV4dD0x?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q"
+    }
+  }
+}

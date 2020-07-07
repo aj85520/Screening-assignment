@@ -1,0 +1,543 @@
+{
+  "results": {
+    "next": "https://places.ls.hereapi.com/places/v1/discover/search;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmb2Zmc2V0PTIwJnNpemU9MjA?at=52.5205%2C13.3844&q=ev-charging-station&app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+    "items": [
+      {
+        "position": [
+          52.519615,
+          13.385222
+        ],
+        "distance": 113,
+        "title": "Electric Vehicle Charging Station",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Neust‰dtische Kirchstraﬂe 8<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-048c7556709d4f268b10bcf6bd13d817;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0w?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-048c7556709d4f268b10bcf6bd13d817"
+      },
+      {
+        "position": [
+          52.519615,
+          13.385222
+        ],
+        "distance": 113,
+        "title": "Allego",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Neust‰dtische Kirchstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-3c321752df2346da9f28f62cf7afe896;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0x?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-3c321752df2346da9f28f62cf7afe896"
+      },
+      {
+        "position": [
+          52.51983,
+          13.38025
+        ],
+        "distance": 291,
+        "title": "Ladestation smart Innogy Se / 0842",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Luisenstraﬂe 31<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276if4l9-bfb3f042049b01f8993e18d247541d98;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0y?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276if4l9-bfb3f042049b01f8993e18d247541d98"
+      },
+      {
+        "position": [
+          52.51983,
+          13.38025
+        ],
+        "distance": 291,
+        "title": "Innogy Emobility Solutions GmbH",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Luisenstraﬂe 31<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-6957eb471e114079b117d32b20925f33;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0z?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-6957eb471e114079b117d32b20925f33"
+      },
+      {
+        "position": [
+          52.518608,
+          13.387711
+        ],
+        "distance": 307,
+        "title": "Electric Vehicle Charging Station",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Dorotheenstraﬂe 63<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-0add9852ada44858af227cc48454709c;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz00?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-0add9852ada44858af227cc48454709c"
+      },
+      {
+        "position": [
+          52.522819,
+          13.380966
+        ],
+        "distance": 347,
+        "title": "Innogy Emobility Solutions",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Reinhardtstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-a274d09b75fa49f3bb000de374e39cb0;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz01?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-a274d09b75fa49f3bb000de374e39cb0"
+      },
+      {
+        "position": [
+          52.52291,
+          13.38091
+        ],
+        "distance": 357,
+        "title": "Ladestation smart Innogy Se - Emob",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Reinhardtstraﬂe 32<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276if4l9-8aa392ee30450f0decab78d5d72d9194;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz02?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276if4l9-8aa392ee30450f0decab78d5d72d9194",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.52355,
+          13.38061
+        ],
+        "distance": 425,
+        "title": "Ladestation smart Innogy Se",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Schumannstraﬂe 6<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-5701cd9d7d404618a0c195b3651ec64c;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz03?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-5701cd9d7d404618a0c195b3651ec64c",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.52355,
+          13.38061
+        ],
+        "distance": 425,
+        "title": "Charging Station Innogy Se - Emob",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Schumannstraﬂe 6<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-c749b7f0b0d260056b3cef326039a7df;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz04?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-c749b7f0b0d260056b3cef326039a7df",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.51897,
+          13.390248
+        ],
+        "distance": 431,
+        "title": "Innogy Emobility Solutions GmbH",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Planckstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-9c3782f693904f45b98e24e598b522df;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz05?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-9c3782f693904f45b98e24e598b522df"
+      },
+      {
+        "position": [
+          52.518995,
+          13.390425
+        ],
+        "distance": 441,
+        "title": "Ladestation smart Innogy Se - Emob",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Charlottenstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276if4l9-f9da00143f09009e8a684db7847bb625;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0xMA?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276if4l9-f9da00143f09009e8a684db7847bb625",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.523719,
+          13.380581
+        ],
+        "distance": 441,
+        "title": "Innogy Emobility Solutions GmbH",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Schumannstraﬂe 6<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-df988edbcc654543a18a451e3527fdf1;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0xMQ?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-df988edbcc654543a18a451e3527fdf1"
+      },
+      {
+        "position": [
+          52.516019,
+          13.380243
+        ],
+        "distance": 572,
+        "title": "Unter den Linden 77",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Unter den Linden 77<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276if4l9-678fef5324d90651b4846b61bbf5f233;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0xMg?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276if4l9-678fef5324d90651b4846b61bbf5f233",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 23:59",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT23H59M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.516019,
+          13.380243
+        ],
+        "distance": 572,
+        "title": "Apcoa Parking Deutschland GmbH",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Unter den Linden 77<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-9405348d66d14b469e0382e3d73119fb;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0xMw?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-9405348d66d14b469e0382e3d73119fb"
+      },
+      {
+        "position": [
+          52.516019,
+          13.380243
+        ],
+        "distance": 572,
+        "title": "Apcoa Parking Deutschland",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Unter den Linden<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-9733d0fd242a44469b077ec4e66f42ff;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0xNA?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-9733d0fd242a44469b077ec4e66f42ff"
+      },
+      {
+        "position": [
+          52.515197,
+          13.38431
+        ],
+        "distance": 590,
+        "title": "Allego GmbH",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Mauerstraﬂe 32<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-aed8a957f6b0498fb94e58fb53cc1ec2;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0xNQ?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-aed8a957f6b0498fb94e58fb53cc1ec2"
+      },
+      {
+        "position": [
+          52.515846,
+          13.389922
+        ],
+        "distance": 638,
+        "title": "Innogy Emobility Solutions",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Behrenstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-4f21c6b55f5a41f095921c66f49391f9;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0xNg?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-4f21c6b55f5a41f095921c66f49391f9"
+      },
+      {
+        "position": [
+          52.51556,
+          13.38986
+        ],
+        "distance": 662,
+        "title": "Ladestation smart Innogy Se - Emob",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Behrenstraﬂe 28<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276if4l9-9109ceb73b190492d281cc3f1b1c6e4d;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0xNw?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276if4l9-9109ceb73b190492d281cc3f1b1c6e4d",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.516181,
+          13.376935
+        ],
+        "distance": 697,
+        "title": "Electric Vehicle Charging Station",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "Pariser Platz<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-fc592b66ac664b91bf6028ddc4dd404f;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0xOA?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-fc592b66ac664b91bf6028ddc4dd404f"
+      },
+      {
+        "position": [
+          52.513886,
+          13.390051
+        ],
+        "distance": 829,
+        "title": "Electric Vehicle Charging Station",
+        "averageRating": 0,
+        "category": {
+          "id": "ev-charging-station",
+          "title": "EV Charging Station",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/ev-charging-station?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/81.icon",
+        "vicinity": "J‰gerstraﬂe 61<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33d8-3302b7a7581c4ede8b75fea995f1515e;context=Zmxvdy1pZD00MWI2NGI3ZS03NDhlLTVlOWUtOTZlMS02ZDg0MTZlNWQ1YTdfMTU5NDA5OTI2MTUxMl83NzgxXzcyNzMmcmFuaz0xOQ?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33d8-3302b7a7581c4ede8b75fea995f1515e"
+      }
+    ]
+  },
+  "search": {
+    "context": {
+      "location": {
+        "position": [
+          52.5205,
+          13.3844
+        ],
+        "address": {
+          "text": "Mitte, 10117 Berlin<br/>Germany",
+          "postalCode": "10117",
+          "district": "Mitte",
+          "city": "Berlin",
+          "county": "Berlin",
+          "stateCode": "Berlin",
+          "country": "Germany",
+          "countryCode": "DEU"
+        }
+      },
+      "type": "urn:nlp-types:place",
+      "href": "https://places.ls.hereapi.com/places/v1/places/loc-dmVyc2lvbj0xO3RpdGxlPU1pdHRlO2xhdD01Mi41MjA1O2xvbj0xMy4zODQ0O2NpdHk9QmVybGluO3Bvc3RhbENvZGU9MTAxMTc7Y291bnRyeT1ERVU7ZGlzdHJpY3Q9TWl0dGU7c3RhdGVDb2RlPUJlcmxpbjtjb3VudHk9QmVybGluO2NhdGVnb3J5SWQ9Y2l0eS10b3duLXZpbGxhZ2U7c291cmNlU3lzdGVtPWludGVybmFs;context=c2VhcmNoQ29udGV4dD0x?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q"
+    },
+    "ranking": "category-distance"
+  }
+}
+HTTP Response Status 20

@@ -1,0 +1,533 @@
+{
+  "results": {
+    "next": "https://places.ls.hereapi.com/places/v1/discover/search;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmb2Zmc2V0PTIwJnNpemU9MjA?at=52.5205%2C13.3844&q=parking-facility&app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+    "items": [
+      {
+        "position": [
+          52.51855,
+          13.38619
+        ],
+        "distance": 248,
+        "title": "Hotel Maritim Pro Arte",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Dorotheenstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276jx7ps-91f4adbf0b52093bdf434dc5ca397b96;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0w?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276jx7ps-91f4adbf0b52093bdf434dc5ca397b96"
+      },
+      {
+        "position": [
+          52.52301,
+          13.38305
+        ],
+        "distance": 294,
+        "title": "Reinhardtstraﬂe",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Reinhardtstraﬂe 27<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276jx7ps-35c5edbb987b0d980330ffebdd2169bb;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0x?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276jx7ps-35c5edbb987b0d980330ffebdd2169bb"
+      },
+      {
+        "position": [
+          52.51912,
+          13.39114
+        ],
+        "distance": 481,
+        "title": "Parkhaus Dorotheenstraﬂe",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Dorotheenstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-f7ac578dd1e94f46acd9a128bbef3673;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0y?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-f7ac578dd1e94f46acd9a128bbef3673"
+      },
+      {
+        "position": [
+          52.52425,
+          13.37953
+        ],
+        "distance": 531,
+        "title": "Luisenstraﬂe",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Luisenstraﬂe 51<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-70b602bb0f444bbda6f463da14b61096;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0z?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-70b602bb0f444bbda6f463da14b61096",
+        "chainIds": [
+          "3207"
+        ]
+      },
+      {
+        "position": [
+          52.51506,
+          13.38631
+        ],
+        "distance": 619,
+        "title": "Contipark International Interparking Group",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Glinkastraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/2768lxx5-3235ff7714f209c7680b689e70b84044;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz00?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "2768lxx5-3235ff7714f209c7680b689e70b84044"
+      },
+      {
+        "position": [
+          52.51493,
+          13.38617
+        ],
+        "distance": 631,
+        "title": "Kulturparkplatz",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Glinkastraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-f25cf696f359417299d017b54c878af9;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz01?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-f25cf696f359417299d017b54c878af9"
+      },
+      {
+        "position": [
+          52.51503,
+          13.38025
+        ],
+        "distance": 670,
+        "title": "Adlon",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Behrenstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-6bdbf254e35040f6a45e698b3ec5ee48;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz02?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-6bdbf254e35040f6a45e698b3ec5ee48",
+        "chainIds": [
+          "3207"
+        ]
+      },
+      {
+        "position": [
+          52.52694,
+          13.38438
+        ],
+        "distance": 716,
+        "title": "Hannoversche Straﬂe",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Hannoversche Straﬂe<br/>Mitte, 10115 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-9419666152ed4b63a29daa67edbed0c3;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz03?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-9419666152ed4b63a29daa67edbed0c3"
+      },
+      {
+        "position": [
+          52.51515,
+          13.39085
+        ],
+        "distance": 738,
+        "title": "The Regent Hotel Berlin Parkhaus",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Charlottenstraﬂe 49<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/2768lxx5-60987d2a8d0109f82270ac3d19cb9d40;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz04?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "2768lxx5-60987d2a8d0109f82270ac3d19cb9d40"
+      },
+      {
+        "position": [
+          52.52714,
+          13.38475
+        ],
+        "distance": 739,
+        "title": "Deutsche Bischofskonferenz",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Hannoversche Straﬂe 5<br/>Mitte, 10115 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-2c3e0d0d2b5442ff93cac1a1720be127;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz05?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-2c3e0d0d2b5442ff93cac1a1720be127"
+      },
+      {
+        "position": [
+          52.51644,
+          13.39326
+        ],
+        "distance": 750,
+        "title": "Q-PARK",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Bebelplatz<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/2768lxx5-262254c01474062572cd264a1efbe370;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0xMA?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "2768lxx5-262254c01474062572cd264a1efbe370",
+        "openingHours": {
+          "text": "Mon-Sun: 07:00 - 23:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T070000",
+              "duration": "PT16H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.5159,
+          13.39289
+        ],
+        "distance": 769,
+        "title": "Staatsoper",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Behrenstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-dcfed18346224793803b3bbcf5e15381;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0xMQ?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-dcfed18346224793803b3bbcf5e15381"
+      },
+      {
+        "position": [
+          52.51519,
+          13.39372
+        ],
+        "distance": 864,
+        "title": "OperncarrÈe",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Franzˆsische Straﬂe 39<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276jx7ps-a27f7e3f829909290991897d090628e4;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0xMg?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276jx7ps-a27f7e3f829909290991897d090628e4",
+        "chainIds": [
+          "3225"
+        ]
+      },
+      {
+        "position": [
+          52.527991,
+          13.381011
+        ],
+        "distance": 864,
+        "title": "Parkhaus-Kieser Training",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Hannoversche Straﬂe 19<br/>Mitte, 10115 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-613b342022404cf298dbd30350cd1dc5;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0xMw?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-613b342022404cf298dbd30350cd1dc5",
+        "openingHours": {
+          "text": "Mon-Fri: 07:30 - 21:30<br/>Sat, Sun: 09:00 - 18:00",
+          "label": "Opening hours",
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T073000",
+              "duration": "PT14H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR"
+            },
+            {
+              "start": "T090000",
+              "duration": "PT09H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SA,SU"
+            }
+          ]
+        }
+      },
+      {
+        "position": [
+          52.51621,
+          13.39505
+        ],
+        "distance": 864,
+        "title": "Unter den Linden/Staatsoper",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Bebelplatz<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276jx7ps-a9a3cc6379e5057d7ce03a38636d937d;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0xNA?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276jx7ps-a9a3cc6379e5057d7ce03a38636d937d",
+        "chainIds": [
+          "3225"
+        ]
+      },
+      {
+        "position": [
+          52.51289,
+          13.39018
+        ],
+        "distance": 932,
+        "title": "Tiefgarage Friedrichstadt-Passagen (Q 205)",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Taubenstraﬂe 14<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33d8-586065e4932545feae1450c77132fc5d;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0xNQ?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33d8-586065e4932545feae1450c77132fc5d",
+        "openingHours": {
+          "text": "Mon-Sun: 00:00 - 24:00",
+          "label": "Opening hours",
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        "chainIds": [
+          "24819"
+        ],
+        "alternativeNames": [
+          {
+            "name": "Tiefgarage Friedrichstadt-Passagen (Q 205)",
+            "language": "de"
+          }
+        ]
+      },
+      {
+        "position": [
+          52.51183,
+          13.38322
+        ],
+        "distance": 967,
+        "title": "Wilhelmstraﬂe",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Wilhelmstraﬂe<br/>Mitte, 10117 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33d8-ef9787a6d6ca44e2b13aa578073a7d61;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0xNg?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33d8-ef9787a6d6ca44e2b13aa578073a7d61"
+      },
+      {
+        "position": [
+          52.524295,
+          13.370765
+        ],
+        "distance": 1014,
+        "title": "Parkplatz",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Friedrich-List-Ufer<br/>Moabit, 10557 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-2bdc2ab7f5a0401ea6b9debb639116e3;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0xNw?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-2bdc2ab7f5a0401ea6b9debb639116e3"
+      },
+      {
+        "position": [
+          52.52963,
+          13.38421
+        ],
+        "distance": 1015,
+        "title": "RAMADA Hotel / REWE",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Chausseestraﬂe<br/>Mitte, 10115 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276jx7ps-05cefb1c78460843ae32e5d899cf014a;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0xOA?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276jx7ps-05cefb1c78460843ae32e5d899cf014a"
+      },
+      {
+        "position": [
+          52.52342,
+          13.36969
+        ],
+        "distance": 1047,
+        "title": "Berlin Hauptbahnhof Bahnpark-Zufahrt Tiergartentunnel",
+        "averageRating": 0,
+        "category": {
+          "id": "parking-facility",
+          "title": "Parking Facility",
+          "href": "https://places.ls.hereapi.com/places/v1/categories/places/parking-facility?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+          "type": "urn:nlp-types:category",
+          "system": "places"
+        },
+        "icon": "https://download.vcdn.data.here.com/p/d/places2/icons/categories/28.icon",
+        "vicinity": "Moabit, 10557 Berlin",
+        "having": [],
+        "type": "urn:nlp-types:place",
+        "href": "https://places.ls.hereapi.com/places/v1/places/276u33db-5413b52a3b914146a48806cb913c9660;context=Zmxvdy1pZD03MWZkMzFhYi0xZGIzLTU3ZTAtYTM4Zi1kM2M4NDNjM2FmMmZfMTU5NDA5ODIwNzc3MF80NzI2Xzk2ODUmcmFuaz0xOQ?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q",
+        "id": "276u33db-5413b52a3b914146a48806cb913c9660"
+      }
+    ]
+  },
+  "search": {
+    "context": {
+      "location": {
+        "position": [
+          52.5205,
+          13.3844
+        ],
+        "address": {
+          "text": "Mitte, 10117 Berlin<br/>Germany",
+          "postalCode": "10117",
+          "district": "Mitte",
+          "city": "Berlin",
+          "county": "Berlin",
+          "stateCode": "Berlin",
+          "country": "Germany",
+          "countryCode": "DEU"
+        }
+      },
+      "type": "urn:nlp-types:place",
+      "href": "https://places.ls.hereapi.com/places/v1/places/loc-dmVyc2lvbj0xO3RpdGxlPU1pdHRlO2xhdD01Mi41MjA1O2xvbj0xMy4zODQ0O2NpdHk9QmVybGluO3Bvc3RhbENvZGU9MTAxMTc7Y291bnRyeT1ERVU7ZGlzdHJpY3Q9TWl0dGU7c3RhdGVDb2RlPUJlcmxpbjtjb3VudHk9QmVybGluO2NhdGVnb3J5SWQ9Y2l0eS10b3duLXZpbGxhZ2U7c291cmNlU3lzdGVtPWludGVybmFs;context=c2VhcmNoQ29udGV4dD0x?app_id=LKO34glU2MBEVbcOD5mQ&app_code=A2ta_nQ8HRYwenju5HFG5Q"
+    },
+    "ranking": "category-distance"
+  }
+}
+HTTP Response Status 20
